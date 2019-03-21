@@ -1,0 +1,384 @@
+<application>
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="http://akif.barbak@dev.foreks.com/stash/scm/web/haproxy.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://akif.barbak@dev.foreks.com/stash/scm/web/web-client.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://akif.barbak@dev.foreks.com/stash/scm/web/pubsub.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://akif.barbak@dev.foreks.com/stash/scm/web/web-services.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://akif.barbak@dev.foreks.com/stash/scm/web/foreks-definitions.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://akif.barbak@dev.foreks.com/stash/scm/web/foreks-broker.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://akif.barbak@dev.foreks.com/stash/scm/web/ata-jni.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://akif.barbak@dev.foreks.com/stash/scm/ww/symbol-search.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://akif.barbak@dev.foreks.com/stash/scm/ww/trade.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://akif.barbak@dev.foreks.com/stash/scm/ww/window-opener.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://akif.barbak@dev.foreks.com/stash/scm/ww/live-security-prices.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://akif.barbak@dev.foreks.com/stash/scm/web/web-mail-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://akif.barbak@dev.foreks.com/stash/scm/web/web-crm-proxy.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://akif.barbak@dev.foreks.com/stash/scm/ww/akbank-news-reports.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://akif.barbak@dev.foreks.com/stash/scm/ww/bist-trading-book.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://akif.barbak@dev.foreks.com/stash/scm/ww/symbol-details.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://akif.barbak@dev.foreks.com/stash/scm/ww/security-depth.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://akif.barbak@dev.foreks.com/stash/scm/ww/balance-sheet.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://akif.barbak@dev.foreks.com/stash/scm/ww/company-info.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://akif.barbak@dev.foreks.com/stash/scm/ww/price-analysis.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://akif.barbak@dev.foreks.com/stash/scm/ww/akd-widgets.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://akif.barbak@dev.foreks.com/stash/scm/ww/capital-bonus.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://akif.barbak@dev.foreks.com/stash/scm/ww/calculator.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://akif.barbak@dev.foreks.com/stash/scm/ww/security-depth-transactions.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://akif.barbak@dev.foreks.com/stash/scm/ww/alert-menu.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://akif.barbak@dev.foreks.com/stash/scm/web/paragaranti-web.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://akif.barbak@dev.foreks.com/stash/scm/ww/quick-order.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://akif.barbak@dev.foreks.com/stash/scm/ww/feed-listener-cell.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://akif.barbak@dev.foreks.com/stash/scm/ww/ase-market-stats.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://akif.barbak@dev.foreks.com/stash/scm/web/ase-db-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://akif.barbak@dev.foreks.com/stash/scm/ww/service-discovery.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://akif.barbak@dev.foreks.com/stash/scm/ww/symbol-historical-details.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://akif.barbak@dev.foreks.com/stash/scm/ww/pubsub-connector.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://akif.barbak@dev.foreks.com/stash/scm/ww/block-trades.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://akif.barbak@dev.foreks.com/stash/scm/ww/option-chain.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://akif.barbak@dev.foreks.com/stash/scm/web/metals-market.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://akif.barbak@dev.foreks.com/stash/scm/ww/bist-warrants.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://akif.barbak@dev.foreks.com/stash/scm/web/paramin-kaptani-backoffice.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://akif.barbak@dev.foreks.com/stash/scm/ww/domestic-foreign-markets.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://akif.barbak@dev.foreks.com/stash/scm/ww/gedik-forex-calculator.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://akif.barbak@dev.foreks.com/stash/scm/ww/market-summary-ticker.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://akif.barbak@dev.foreks.com/stash/scm/ww/top-bottom.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://akif.barbak@dev.foreks.com/stash/scm/ww/widget-utils.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://akif.barbak@dev.foreks.com/stash/scm/ww/number-input.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://akif.barbak@dev.foreks.com/stash/scm/ww/widget-translate.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://akif.barbak@dev.foreks.com/stash/scm/ww/foreks-datepicker.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://akif.barbak@dev.foreks.com/stash/scm/ww/angular-moment-module.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://akif.barbak@dev.foreks.com/stash/scm/ww/broker-search.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://akif.barbak@dev.foreks.com/stash/scm/ww/price-steps.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://akif.barbak@dev.foreks.com/stash/scm/ww/requester.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://akif.barbak@dev.foreks.com/stash/scm/ww/ng-alertify.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://akif.barbak@dev.foreks.com/stash/scm/ww/tradingview-chart.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://akif.barbak@dev.foreks.com/stash/scm/ww/ase-general-index.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://barbakini@bitbucket.org/barbakini/modacruz-challenge.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="barbakini" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://akif.barbak@dev.foreks.com/stash/scm/web/tradingview-services.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://akif.barbak@dev.foreks.com/stash/scm/ww/news.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://akif.barbak@dev.foreks.com/stash/scm/ww/news-feed.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://akif.barbak@dev.foreks.com/stash/scm/web/haproxy.githttp://akif.barbak@dev.foreks.com/stash/scm/ww/news-feed.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://barbakini@bitbucket.org/barbakini/cimri-challenge.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://akif.barbak@dev.foreks.com/stash/scm/ww/option-main-market.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://akif.barbak@dev.foreks.com/stash/scm/ww/economic-calendar.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://akif.barbak@dev.foreks.com/stash/scm/web/isbank-trade.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://akif.barbak@dev.foreks.com/stash/scm/ww/foreign-exchange-ratio.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://akif.barbak@dev.foreks.com/stash/scm/webspprt/payment-interface.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://akif.barbak@dev.foreks.com/stash/scm/web/definition-services.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://akif.barbak@dev.foreks.com/stash/scm/crm/web-fxlisans.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://akif.barbak@dev.foreks.com/stash/scm/web/user-settings.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://akif.barbak@dev.foreks.com/stash/scm/ww/warrant-chain.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://akif.barbak@dev.foreks.com/stash/scm/ww/security-column-customizer.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://akif.barbak@dev.foreks.com/stash/scm/ww/trading-opportunities.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://akif.barbak@dev.foreks.com/stash/scm/web/web-alert-server.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://akif.barbak@dev.foreks.com/stash/scm/web/web-exchange.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://akif.barbak@dev.foreks.com/stash/scm/web/web-exchange-admin.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://akif.barbak@dev.foreks.com/stash/scm/web/web-socket-proxy.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://dev.foreks.com" />
+          <option name="userName" value="akif.barbak" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://akif.barbak@dev.foreks.com/stash/scm/web/paramin-kaptani-backoffice.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://akif.barbak@dev.foreks.com/stash/scm/webfxpls/newwebfx-isbank.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://akif.barbak@dev.foreks.com/stash/scm/webspprt/energy-widgets.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://akif.barbak@dev.foreks.com/stash/scm/web/web-client.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://akif.barbak@dev.foreks.com/stash/scm/nlwp/teb-yatirim-yap.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://akif.barbak@dev.foreks.com/stash/scm/web/foreks-cms.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://akif.barbak@dev.foreks.com/stash/scm/webspprt/foreks-web-widget.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://akif.barbak@dev.foreks.com/stash/scm/ww/settlement.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://akif.barbak@dev.foreks.com/stash/scm/webspprt/ase-widgets.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://akif.barbak@dev.foreks.com/stash/scm/ww/risk-notification.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://akif.barbak@dev.foreks.com/stash/scm/ww/interactive-charts.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://akif.barbak@dev.foreks.com/stash/scm/ww/ase-company-overview.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://barbakini@bitbucket.org/jekirdek/method.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://barbakini@bitbucket.org/jekirdek/old_metod_main.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/muntazam/method.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://akif.barbak@dev.foreks.com/stash/scm/web/web-crm-proxy.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://akif.barbak@dev.foreks.com/stash/scm/ww/teb-widgets.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+      </list>
+    </option>
+    <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects/web/widgets" />
+  </component>
+  <component name="Vcs.Log.App.Settings">
+    <option name="MIGRATED" value="true" />
+  </component>
+</application>

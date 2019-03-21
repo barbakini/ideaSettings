@@ -1,0 +1,60 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="6.12.3" last-modified="1514919333000" />
+      <npm-package value="/usr/local/lib/node_modules/npm" />
+    </local-interpreter>
+  </component>
+  <component name="WebServicesPluginSettings" SelectedPlatform="Glassfish / JAX-WS 2.2 RI / Metro 1.X / JWSDP 2.2">
+    <StubPackage>bip.services.iab.isbank</StubPackage>
+    <StubPackage>mobilbanknew</StubPackage>
+    <StubPackage>bipnew.customerqueryservice</StubPackage>
+    <StubPackage>bipnew.loanstockmanagementservice</StubPackage>
+    <StubPackage>bipnew.stocktrademanagementservice</StubPackage>
+    <StubPackage>bipnew.stocktradeinquiryservice</StubPackage>
+    <StubPackage>bipnew.loanstockinquiryservice</StubPackage>
+    <StubPackage>bipnew.stocktradeinquiryservice</StubPackage>
+    <StubPackage>bipnew.stocktrademanagementservice</StubPackage>
+    <StubPackage>bipnew.stocktradeinquiryservice</StubPackage>
+    <StubPackage>bipnew.loanstockmanagement</StubPackage>
+    <StubPackage>bipnew.customerqueryservice</StubPackage>
+    <StubPackage>bipnew.loanstockinquiry</StubPackage>
+    <StubPackage>loanstockinquiry</StubPackage>
+    <StubPackage>customerqueryservice</StubPackage>
+    <StubPackage>stocktrademanagementservice</StubPackage>
+    <StubPackage>stocktradeinquiryservice</StubPackage>
+    <StubPackage>loanstockmanagementservice</StubPackage>
+    <StubPackage>loanstockinquiryservice</StubPackage>
+    <StubPackage>customerqueryservice</StubPackage>
+    <StubPackage>stocktrademanagement</StubPackage>
+    <StubPackage>stocktradeinqury</StubPackage>
+    <StubPackage>loanstockmanagement</StubPackage>
+    <StubPackage>loanstockinqury</StubPackage>
+    <StubPackage>customerquery</StubPackage>
+    <StubPackage>stocktrademanagementservice</StubPackage>
+    <StubUrl>file:$USER_HOME$/IdeaProjects/isbank-trade/isbankwebservices/BIPFacadeNew.wsdl</StubUrl>
+    <StubUrl>file:$USER_HOME$/IdeaProjects/isbank-trade/isbankwebservices/BIPFacadeNew.xml</StubUrl>
+    <StubUrl>https://mobilbanka.intisbank/ekip.MobileBankSvc60/bipfacade.asmx?WSDL</StubUrl>
+    <StubUrl>http://10.87.23.35:8003/CustMgmt/CustProfileMgmt/CustomerQueryServiceV14?wsdl</StubUrl>
+    <StubUrl>file:$USER_HOME$/IdeaProjects/isbank-trade/src/main/resources/wsdl/CustomerQueryServiceV14.xml</StubUrl>
+    <StubUrl>http://10.87.23.35:8003/OpSvcs/ProdSpecificOperations/LoanStockManagementServiceV1?wsdl</StubUrl>
+    <StubUrl>http://10.87.23.35:8003/OpSvcs/ProdSpecificOperations/StockTradeManagementServiceV1?wsdl</StubUrl>
+    <StubUrl>http://10.87.23.35:8003/OpSvcs/ProdSpecificOperations/StockTradeInquiryServiceV1?wsdl</StubUrl>
+    <StubUrl>http://10.87.23.35:8003/OpSvcs/ProdSpecificOperations/LoanStockInquiryServiceV1?wsdl</StubUrl>
+    <StubUrl>file:$USER_HOME$/IdeaProjects/isbank-trade/src/main/resources/wsdl/LoanStockInquiryServiceV1.xml</StubUrl>
+    <StubUrl>file:$USER_HOME$/IdeaProjects/isbank-trade/src/main/resources/wsdl/StockTradeInquiryServiceV1.xml</StubUrl>
+    <StubUrl>file:$USER_HOME$/IdeaProjects/isbank-trade/src/main/resources/wsdl/StockTradeManagementServiceV1.xml</StubUrl>
+    <StubUrl>file:$USER_HOME$/IdeaProjects/isbank-trade/src/main/resources/wsdl/LoanStockManagementServiceV1.xml</StubUrl>
+    <StubUrl>file:$USER_HOME$/IdeaProjects/Demo/src/main/resources/wsdl/StockTradeManagementServiceV1.xml</StubUrl>
+    <StubUrl>file:$USER_HOME$/IdeaProjects/Demo/src/main/resources/wsdl/StockTradeInquiryServiceV1.xml</StubUrl>
+    <StubUrl>file:$USER_HOME$/IdeaProjects/Demo/src/main/resources/wsdl/LoanStockManagementServiceV1.xml</StubUrl>
+    <StubUrl>file:$USER_HOME$/IdeaProjects/Demo/src/main/resources/wsdl/LoanStockInquiryServiceV1.xml</StubUrl>
+    <StubUrl>file:$USER_HOME$/IdeaProjects/Demo/src/main/resources/wsdl/CustomerQueryServiceV14.xml</StubUrl>
+    <StubUrl>file:$USER_HOME$/Downloads/WsdlDoc/StockTradeManagementServiceV1.xml</StubUrl>
+    <StubUrl>file:$USER_HOME$/Downloads/WsdlDoc/StockTradeInquiryServiceV1.xml</StubUrl>
+    <StubUrl>file:$USER_HOME$/Downloads/WsdlDoc/LoanStockManagementServiceV1.xml</StubUrl>
+    <StubUrl>file:$USER_HOME$/Downloads/WsdlDoc/LoanStockInquiryServiceV1.xml</StubUrl>
+    <StubUrl>file:$USER_HOME$/Downloads/WsdlDoc/CustomerQueryServiceV14.xml</StubUrl>
+    <StubUrl>http://dataservice.osmanliyatirim.rasyonet.com/WebToken.svc?wsdl</StubUrl>
+  </component>
+</application>
